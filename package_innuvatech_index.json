@@ -16,10 +16,10 @@
             "category": "Contributed",
             "url": "https://github.com/PatchugoOne/PatchugoOne/archive/refs/tags/1.0.0.tar.gz",
             "archiveFileName": "Patchugo-1.0.0.tar.bz2",
-            "checksum": "SHA-256:AE0E4DDF55E7DBC2CE024E94BB8C08666FA15E00F7B2FCAC29B87485DEB58D9F",
-            "size": "228585241",
+            "checksum": "SHA-256:1D41A2A74064A595DAA40B68B0BF30F644BE96F3C45494ED59BA126111996C9D",
+            "size": "237114150",
             "boards": [
-              {"name": "Patchugo_One"}
+              {"name": "PatchugoOne"}
             ],
             "toolsDependencies": [
               {
