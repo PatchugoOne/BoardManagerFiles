@@ -23,17 +23,17 @@
             ],
             "toolsDependencies": [
               {
-                "packager": "STMicroelectronics",
+                "packager": "Innuvatech",
                 "name": "xpack-arm-none-eabi-gcc",
                 "version": "13.2.1-1.1"
               },
               {
-                "packager": "STMicroelectronics",
+                "packager": "Innuvatech",
                 "name": "STM32Tools",
                 "version": "2.2.4"
               },
               {
-                "packager": "STMicroelectronics",
+                "packager": "Innuvatech",
                 "name": "CMSIS",
                 "version": "5.9.0"
               }
