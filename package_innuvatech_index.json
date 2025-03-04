@@ -10,7 +10,7 @@
         },
         "platforms": [
           {
-            "name": "Patchugo Boards",
+            "name": "Innuvatech Patchugo Boards",
             "architecture": "stm32",
             "version": "1.0.0",
             "category": "Contributed",
